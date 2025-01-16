@@ -17,6 +17,7 @@ export const FixedContainer = styled.div`
 export const DeleteBox = styled.div`
   width: 35px;
   height: 100%;
+  font-size: 150%;
   cursor: pointer;
   display: flex;
   align-items: center;
